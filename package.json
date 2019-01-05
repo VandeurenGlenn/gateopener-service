@@ -1,0 +1,30 @@
+{
+  "name": "gateopener-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Glenn Vandeuren <vandeurenglenn>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vandeurenglenn/gateopener-service.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vandeurenglenn/gateopener-service/issues"
+  },
+  "homepage": "https://github.com/vandeurenglenn/gateopener-service#readme",
+  "description": "",
+  "dependencies": {
+    "backed": "^0.13.0",
+    "custom-renderer-mixin": "^1.1.2",
+    "firebase": "^5.7.2",
+    "firebaseui": "^3.5.1",
+    "onoff": "^3.2.2"
+  },
+  "devDependencies": {
+    "rollup": "^1.0.1"
+  }
+}
