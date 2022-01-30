@@ -20,7 +20,7 @@
   "dependencies": {
     "backed": "^0.13.0",
     "custom-renderer-mixin": "^1.1.2",
-    "firebase": "^5.7.2",
+    "firebase": "^5.11.1",
     "firebaseui": "^3.5.1",
     "onoff": "^3.2.2"
   },
