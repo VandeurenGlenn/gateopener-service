@@ -22,7 +22,7 @@
     "custom-renderer-mixin": "^1.1.2",
     "firebase": "^5.7.2",
     "firebaseui": "^3.5.1",
-    "onoff": "^3.2.2"
+    "onoff": "^3.2.9"
   },
   "devDependencies": {
     "rollup": "^1.0.1"
